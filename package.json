@@ -1,14 +1,14 @@
 {
   "name": "merge-light",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "merge light",
   "main": "merge-light.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "LightSpeedWorks/merge-light",
-    "url": "repo"
+    "type": "git",
+    "url": "LightSpeedWorks/merge-light"
   },
   "keywords": [
     "merge"
