@@ -1,0 +1,18 @@
+{
+  "name": "merge-light",
+  "version": "0.0.0",
+  "description": "merge light",
+  "main": "merge-light.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "LightSpeedWorks/merge-light",
+    "url": "repo"
+  },
+  "keywords": [
+    "merge"
+  ],
+  "author": "LightSpeedC",
+  "license": "MIT"
+}
