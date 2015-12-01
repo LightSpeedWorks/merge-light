@@ -6,7 +6,7 @@ thin merge copy.
 
 # PREPARE:
 
-for node.js or io.js
+for node.js
 
 ```bash
 $ npm install merge-light --save
