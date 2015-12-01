@@ -1,6 +1,6 @@
 // merge-light.js
 
-this['merge-light'] = function () {
+void function () {
   'use strict';
 
   function merge(dst, src) {
@@ -14,5 +14,5 @@ this['merge-light'] = function () {
   if (typeof module === 'object' && module && module.exports)
     module.exports = merge;
 
-  return merge;
+  Function('return this')()['merge-light'] = merge;
 }();
